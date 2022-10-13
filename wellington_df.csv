@@ -1,0 +1,10 @@
+Location,Day,Date,Weather_Pattern,Wind_Pattern,Night_Temp,Day_Temp,Wind
+Wellington,Fri,2022-10-14,Cloudy, Breezy East to Sou'East winds,8,14,17
+Wellington,Sat,2022-10-15,Partly cloudy, Fairly breezy Northerly winds,11,15,20
+Wellington,Sun,2022-10-16,Generally clear and windy, Breezy to brisk North to Nor'West winds,11,16,33
+Wellington,Mon,2022-10-17,Windy and partly cloudy, Breezy to brisk Nor'West winds,10,15,34
+Wellington,Tue,2022-10-18,Morning showers, Fairly breezy Nor'West winds,9,14,23
+Wellington,Wed,2022-10-19,Morning showers, Fairly breezy South to Sou'West winds,9,14,25
+Wellington,Thu,2022-10-20,Windy and partly cloudy, Breezy to brisk South to Sou'East winds,8,12,34
+Wellington,Fri,2022-10-21,Partly cloudy, Fairly breezy Sou'East winds,9,14,23
+Wellington,Sat,2022-10-22,Generally clear and windy, Breezy to brisk Northerly winds,11,15,34
