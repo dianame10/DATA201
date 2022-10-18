@@ -1,0 +1,70 @@
+Incident_no,Day,Date,Time,Duration,Location,Station,Result_code,Result_Description
+F3579735,Mon,2022-10-17,09:00:00,00:00:00,Berhampore Wellington City,Newtown,NA,NA
+F3579775,Mon,2022-10-17,10:00:00,00:00:00,Mount Victoria Wellington City,Wellington City,NA,NA
+F3579783,Mon,2022-10-17,10:00:00,00:00:00,Johnsonville Wellington City,Johnsonville,NA,NA
+F3579940,Mon,2022-10-17,13:00:00,00:00:00,Strathmore Park Wellington City,Kilbirnie,NA,NA
+F3579971,Mon,2022-10-17,14:00:00,00:00:00,Thorndon Wellington City,Karori,NA,NA
+F3580037,Mon,2022-10-17,15:30:00,00:00:00,Newtown Wellington City,Newtown,NA,NA
+F3580157,Mon,2022-10-17,19:30:00,00:00:00,Ngauranga Wellington City,Johnsonville,NA,NA
+F3580202,Mon,2022-10-17,21:00:00,00:00:00,Newlands Wellington City,Newlands,NA,NA
+F3580221,Mon,2022-10-17,22:00:00,00:00:00,Te Aro Wellington City,Wellington City,NA,NA
+F3580274,Tue,2022-10-18,05:30:00,00:00:00,Berhampore Wellington City,Newtown,NA,NA
+F3580279,Tue,2022-10-18,06:00:00,00:00:00,Newtown Wellington City,Newtown,NA,NA
+F3580297,Tue,2022-10-18,07:00:00,00:00:00,Kilbirnie Wellington City,Kilbirnie,NA,NA
+F3580385,Tue,2022-10-18,09:30:00,00:00:00,Hataitai Wellington City,Newtown,NA,NA
+F3580470,Tue,2022-10-18,10:30:00,00:00:00,Thorndon Wellington City,Thorndon,NA,NA
+F3580479,Tue,2022-10-18,11:00:00,00:00:00,Te Aro Wellington City,Wellington City,NA,NA
+F3580645,Tue,2022-10-18,14:00:00,00:00:00,Brooklyn Wellington City,Brooklyn,NA,NA
+F3580659,Tue,2022-10-18,14:30:00,00:00:00,Tawa Wellington City,Tawa,NA,NA
+F3576829,Wed,2022-10-12,08:00:00,00:00:00,Wellington Central Wellington City,Thorndon,1500, Miscellaneous Fire (Min)
+F3576858,Wed,2022-10-12,08:30:00,00:14:12,Te Aro Wellington City,Thorndon,7100, False Alarm (Stru)
+F3576958,Wed,2022-10-12,10:30:00,00:00:00,Oriental Bay Wellington City,Thorndon,9900, Non-Fire Event Excl Rescue/False Alarm (Exercise)
+F3577010,Wed,2022-10-12,11:00:00,00:00:00,Newtown Wellington City,Newtown,1400," Chemical, Flammable Liquid, Gas Fire (Hazgas)"
+F3577024,Wed,2022-10-12,11:30:00,00:00:00,Mount Cook Wellington City,Newtown,1500, Miscellaneous Fire (Stru)
+F3577108,Wed,2022-10-12,13:00:00,00:13:00,Mount Cook Wellington City,Brooklyn,7100, False Alarm (Stru)
+F3577121,Wed,2022-10-12,13:30:00,00:00:00,Mount Victoria Wellington City,Newtown,3100," Rescue,Emergency,Medical Call (Min)"
+F3577134,Wed,2022-10-12,13:30:00,00:10:50,Te Aro Wellington City,Thorndon,7100, False Alarm (Stru)
+F3577159,Wed,2022-10-12,14:00:00,00:00:00,Wellington Central Wellington City,Thorndon,7100, False Alarm (Stru)
+F3577340,Wed,2022-10-12,19:30:00,00:00:00,Wellington Central Wellington City,Thorndon,9900, Non-Fire Event Excl Rescue/False Alarm (Min)
+F3577472,Thu,2022-10-13,03:30:00,00:08:33,Mount Victoria Wellington City,Wellington City,7100, False Alarm (Stru)
+F3577674,Thu,2022-10-13,11:00:00,00:00:00,Brooklyn Wellington City,Wellington City,3100," Rescue,Emergency,Medical Call (Med)"
+F3577750,Thu,2022-10-13,13:30:00,00:18:38,Newtown Wellington City,Newtown,7100, False Alarm (Sprnklr)
+F3577754,Thu,2022-10-13,13:30:00,00:11:56,Te Aro Wellington City,Brooklyn,7100, False Alarm (Stru)
+F3577788,Thu,2022-10-13,14:00:00,00:00:00,Newlands Wellington City,Newlands,3100," Rescue,Emergency,Medical Call (Med)"
+F3578128,Fri,2022-10-14,06:30:00,00:17:35,Te Aro Wellington City,Wellington City,9900, Non-Fire Event Excl Rescue/False Alarm (Min)
+F3578180,Fri,2022-10-14,09:00:00,00:07:19,Te Aro Wellington City,Wellington City,7100, False Alarm (Stru)
+F3578203,Fri,2022-10-14,09:00:00,00:12:35,Te Aro Wellington City,Thorndon,1500, Miscellaneous Fire (Stru)
+F3578323,Fri,2022-10-14,11:30:00,00:00:00,Khandallah Wellington City,Johnsonville,3100," Rescue,Emergency,Medical Call (Min)"
+F3578360,Fri,2022-10-14,12:30:00,00:00:00,Khandallah Wellington City,Porirua,3100," Rescue,Emergency,Medical Call (Min)"
+F3578435,Fri,2022-10-14,14:30:00,00:00:00,Kilbirnie Wellington City,Kilbirnie,7100, False Alarm (Sprnklr)
+F3578466,Fri,2022-10-14,15:00:00,00:13:01,Newtown Wellington City,Newtown,7100, False Alarm (Stru)
+F3578484,Fri,2022-10-14,15:30:00,00:00:00,Johnsonville Wellington City,Johnsonville,7100, False Alarm (Min)
+F3578487,Fri,2022-10-14,15:30:00,00:00:00,Thorndon Wellington City,Thorndon,7100, False Alarm (Stru)
+F3578489,Fri,2022-10-14,15:30:00,00:33:02,Newtown Wellington City,Newtown,7100, False Alarm (Min)
+F3578493,Fri,2022-10-14,15:30:00,00:00:00,Miramar Wellington City,Kilbirnie,7100, False Alarm (Stru)
+F3578497,Fri,2022-10-14,15:30:00,00:11:44,Te Aro Wellington City,Wellington City,7100, False Alarm (Stru)
+F3578508,Fri,2022-10-14,16:00:00,00:16:48,Thorndon Wellington City,Karori,7100, False Alarm (Stru)
+F3578619,Fri,2022-10-14,20:30:00,00:00:00,Te Aro Wellington City,Wellington City,3100," Rescue,Emergency,Medical Call (Resc)"
+F3578638,Fri,2022-10-14,21:00:00,00:08:37,Newtown Wellington City,Newtown,7100, False Alarm (Sprnklr)
+F3578719,Sat,2022-10-15,04:30:00,00:00:00,Te Aro Wellington City,Wellington City,3100," Rescue,Emergency,Medical Call (Min)"
+F3578833,Sat,2022-10-15,10:30:00,00:00:00,Newtown Wellington City,Newtown,NA,NA
+F3578835,Sat,2022-10-15,10:30:00,00:00:00,Tawa Wellington City,Tawa,NA,NA
+F3578891,Sat,2022-10-15,13:00:00,00:00:00,Kaiwharawhara Wellington City,Thorndon,NA,NA
+F3578915,Sat,2022-10-15,13:30:00,00:00:00,Pipitea Wellington City,Wellington City,NA,NA
+F3578922,Sat,2022-10-15,14:00:00,00:00:00,Te Aro Wellington City,Brooklyn,NA,NA
+F3578938,Sat,2022-10-15,14:00:00,00:00:00,Te Aro Wellington City,Newtown,NA,NA
+F3579039,Sat,2022-10-15,18:30:00,00:00:00,Oriental Bay Wellington City,Wellington City,NA,NA
+F3579045,Sat,2022-10-15,18:30:00,00:00:00,Ngauranga Wellington City,Johnsonville,NA,NA
+F3579047,Sat,2022-10-15,18:30:00,00:00:00,Johnsonville Wellington City,Newlands,NA,NA
+F3579073,Sat,2022-10-15,19:30:00,00:00:00,Ngauranga Wellington City,Johnsonville,NA,NA
+F3579142,Sat,2022-10-15,21:30:00,00:00:00,Te Aro Wellington City,Brooklyn,NA,NA
+F3579148,Sat,2022-10-15,22:00:00,00:00:00,Hataitai Wellington City,Kilbirnie,NA,NA
+F3579182,Sat,2022-10-15,23:00:00,00:00:00,Te Aro Wellington City,Wellington City,NA,NA
+F3579236,Sun,2022-10-16,03:30:00,00:00:00,Mount Cook Wellington City,Newtown,NA,NA
+F3579238,Sun,2022-10-16,04:00:00,00:00:00,Crofton Downs Wellington City,Karori,NA,NA
+F3579363,Sun,2022-10-16,11:30:00,00:00:00,Berhampore Wellington City,Newtown,NA,NA
+F3579469,Sun,2022-10-16,15:00:00,00:00:00,Tawa Wellington City,Tawa,NA,NA
+F3579493,Sun,2022-10-16,16:00:00,00:00:00,Mount Cook Wellington City,Brooklyn,NA,NA
+F3579568,Sun,2022-10-16,19:00:00,00:00:00,Owhiro Bay Wellington City,Brooklyn,NA,NA
+F3579617,Sun,2022-10-16,22:00:00,00:00:00,Mount Cook Wellington City,Newtown,NA,NA
+F3579631,Sun,2022-10-16,23:00:00,00:00:00,Miramar Wellington City,Kilbirnie,NA,NA
