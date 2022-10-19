@@ -1,10 +1,10 @@
 Location,Day,Date,Weather_Pattern,Wind_Pattern,Night_Temp,Day_Temperature,Wind
-Auckland,Fri,2022-10-14,Mostly cloudy, Breezy Sou'East winds,11,17,17
-Auckland,Sat,2022-10-15,Mainly sunny, Breezy to brisk Sou'West winds,13,17,29
-Auckland,Sun,2022-10-16,Showers, Fairly breezy Westerly winds,13,19,23
-Auckland,Mon,2022-10-17,Showers, Fairly breezy Westerly winds,12,19,20
-Auckland,Tue,2022-10-18,Morning showers, Fairly breezy West to Sou'West winds,12,17,25
-Auckland,Wed,2022-10-19,Light morning rain, Breezy to brisk Sou'West winds,12,17,28
-Auckland,Thu,2022-10-20,Morning showers, Fairly breezy South to Sou'West winds,11,18,22
-Auckland,Fri,2022-10-21,Mainly sunny, Breezy Easterly winds,11,18,18
-Auckland,Sat,2022-10-22,Mainly sunny, Fairly breezy South to Sou'West winds,12,19,20
+Auckland,Wed,2022-10-19,Showers, Breezy to brisk West to Sou'West winds,12,17,31
+Auckland,Thu,2022-10-20,Showers, Fairly breezy South to Sou'West winds,10,18,23
+Auckland,Fri,2022-10-21,Mainly sunny, Breezy Easterly winds,10,17,14
+Auckland,Sat,2022-10-22,Mostly sunny, Fairly breezy Sou'West winds,12,19,21
+Auckland,Sun,2022-10-23,Partly cloudy, Fairly breezy Sou'West winds,13,19,26
+Auckland,Mon,2022-10-24,Partly cloudy, Fairly breezy Sou'West winds,13,19,22
+Auckland,Tue,2022-10-25,Morning showers, Breezy West to Sou'West winds,13,19,19
+Auckland,Wed,2022-10-26,Mostly cloudy, Fairly breezy North to Nor'West winds,14,19,20
+Auckland,Thu,2022-10-27,Light rain, Breezy Northerly winds,14,20,19
